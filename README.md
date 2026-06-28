@@ -1,11 +1,11 @@
 # Tertiary-Enrollment-GCC
 Tertiary Enrollment across GCC countries (2000-2024)
 
-Project Overview:
+**Project Overview:**
 
 This project analyzes tertiary education enrollment trends across GCC countries using World Bank data from 2000–2024.
 
-The project includes:
+**The project includes:**
 
 * Data cleaning and preprocessing
 * Exploratory Data Analysis (EDA)
@@ -15,11 +15,11 @@ The project includes:
 * Multiple Linear Regression modeling
 * Interactive Power BI dashboard
 
-Dataset
+**Dataset**
 
 Source: World Bank
 
-Dataset includes:
+**Dataset includes:**
 
 * Country
 * Country Code
@@ -27,7 +27,7 @@ Dataset includes:
 * Year
 * Enrollment rates
 
-Tools Used:
+**Tools Used:**
 
 * Python
 * Pandas
@@ -37,18 +37,18 @@ Tools Used:
 * Scikit-learn
 * Power BI
 
-Key Findings:
+**Key Findings:**
 
 * Tertiary enrollment generally increased across GCC countries over time.
 * Female enrollment consistently exceeded male enrollment rates.
 * Statistical testing confirmed significant differences between male and female enrollment patterns.
 * The regression model explained approximately 75% of enrollment variability.
 
-Project Files:
+**Project Files:**
 
 * Original and Cleaned dataset
 * Jupyter notebook
 * Power BI / PDF dashboard
 
-Author:
-Zahraa Al-Touq
+**Author:**
+*Zahraa Al-Touq*
